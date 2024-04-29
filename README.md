@@ -1,4 +1,4 @@
-### Rose-Leaf-disease-detection
+# Rose-Leaf-disease-detection
 This project focuses on the comparison of two popular convolutional neural network (CNN) architectures, ResNet50 and VGG16, for the detection of rose leaf diseases. The goal is to provide insights into the performance of these models and aid researchers and practitioners in selecting suitable models for similar plant disease detection tasks.
 
 ## Dataset 
