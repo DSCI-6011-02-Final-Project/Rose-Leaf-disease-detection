@@ -8,9 +8,9 @@ https://www.kaggle.com/datasets/shuvokumarbasak4004/rose-leaf-disease-dataset
 Both ResNet50 and VGG16 models were trained using the dataset, and their performance was evaluated using metrics such as accuracy, precision, recall, and F1-score. Training time were also analyzed to assess computational efficiency.
 
 ## Results
-ResNet50 demonstrated a shorter training time compared to VGG16.
-VGG16 achieved higher accuracy, indicating better generalization capability.
+* ResNet50 demonstrated a shorter training time compared to VGG16.
+* VGG16 achieved higher accuracy, indicating better generalization capability.
 ## Usage Instructions
-Clone the repository
-Goggle Colab or Install Jupyter Notebook
-Python
+* Clone the repository
+* Goggle Colab or Install Jupyter Notebook
+* Python
